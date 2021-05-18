@@ -1,0 +1,667 @@
+.vector{
+    margin-left:40%;
+    height:30%;
+    width:60%;
+}
+
+/* Heading */
+
+.head-part {
+    position: absolute;
+    width: 100%;
+    overflow: hidden;
+    height: 1000px;
+    left: 0px;
+    top: 0px;
+    background-color: #E5E5E5;
+    background: linear-gradient(180deg, #E5EFFF 30%, rgba(229, 239, 255, 0.262661) 90%, rgba(229, 239, 255, 0) 100%);
+}
+
+nav a {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 17px;
+    color: #272D4E;
+}
+
+#one {
+    position: absolute;
+    width: 30px;
+    height: 21px;
+    left: 12%;
+    top: 50px;
+}
+
+#two {
+    position: absolute;
+    width: 101px;
+    height: 21px;
+    left: 17%;
+    top: 50px;
+}
+
+#three {
+    position: absolute;
+    width: 93px;
+    height: 21px;
+    left: 26%;
+    top: 50px;
+}
+
+#four {
+    position: absolute;
+    width: 65px;
+    height: 21px;
+    left: 35%;
+    top: 50px;
+}
+
+#five {
+    position: absolute;
+    width: 85px;
+    height: 21px;
+    left: 42%;
+    top: 50px;
+}
+
+#login {
+    position: absolute;
+    width: 50px;
+    height: 21px;
+    left: 83%;
+    top: 50px;
+}
+
+#get-started {
+    position: absolute;
+    width: 99px;
+    height: 30px;
+    left: 89%;
+    top: 48px;
+    color: white;
+    background-color: #7854F7;
+    border: none;
+    border-radius: 5px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+}
+
+
+/* Body Part */
+
+
+/* Left Side */
+
+
+#heading {
+    position: absolute;
+    width: 40%;
+    height: 40%;
+    left: 10%;
+    top: 18%;
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 78px;
+    color: #272D4E;}
+
+#text {
+    position: absolute;
+    width: 40%;
+    height: 40px;
+    left: 10%;
+    top: 48%;
+    font-size: 15px;
+    line-height: 18px;
+    color: #94A2B3;
+}
+
+#new-store {
+    position: absolute;
+    width: 14%;
+    height: 5%;
+    left: 10%;
+    top: 55%;
+    border: none;
+    background: #7854F7;
+    border-radius: 50px;
+    color: white;
+}
+
+.left a {
+    position: absolute;
+    width: 15%;
+    height: 20px;
+    left: 25%;
+    top: 56%;
+    font-size: 18px;
+    line-height: 25px;
+    color: rgb(58, 139, 185);
+}
+
+
+/* Right Side */
+
+/* Part1 */
+
+.base {
+    height: 25%;
+    width: 19%;
+    position: absolute;
+    left: 64%;
+    top: 30%;
+}
+
+
+.base-top {
+    position: absolute;
+    left: 57%;
+    top: 22%;
+    height: 14%;
+    width: 15%;
+}
+
+.base-top img {
+    border-radius: 10px;
+}
+
+.yellow {
+    height: 32%;
+    width: 25%;
+    position: absolute;
+    left: 35%;
+    top: 190%;
+    border-radius: 50%;
+    background-color: #FFBA49;
+}
+
+.sale-btn {
+    position: absolute;
+    width: 45%;
+    height: 22%;
+    left: 120%;
+    top: 45%;
+    border: none;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    background: #70C217;
+    border-radius: 37.7902px;
+    line-height: 1px;
+}
+
+/* Part2 */
+
+.base-right {
+    height: 30%;
+    width: 17%;
+    background-color:white;
+    position: absolute;
+    left: 83%;
+    top: 30%;
+}
+
+#shoe {
+    position: absolute;
+    width: 10%;
+    height: 3%;
+    left: 7%;
+    top: 1%;
+    font-weight: bold;
+    font-size: 16px;
+    color: #272D4E;
+
+}
+
+#shoe-prop {
+    position: absolute;
+    width: 50%;
+    height: 3%;
+    left: 38%;
+    top: 1%;
+    font-size: 16px;
+    color: #868686;
+}
+
+#base-right-heading {
+    position: absolute;
+    width: 90%;
+    height: 20%;
+    left: 7%;
+    top: 3%;
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 30px;
+    color: #222222;
+}
+
+
+.small-btn {
+    margin-top: 57%;
+    margin-left: 3%;
+    height: 13%;
+    width: 15%;
+    border: none;
+    border-radius: 10px;
+    background-color: #c5c5c5;
+}
+
+
+.price{
+    position: absolute;   
+}
+
+
+#p-text {
+    color: #582aff;
+    font-size: 28px;
+    font-weight: 1000;
+    margin-left:30%;
+    margin-bottom: 0%;
+}
+
+#p-deltext {
+    color: gray;
+    font-size: 18px;
+    font-weight: 1000;
+    margin-left: 50%;
+    margin-top: 0%;
+}
+
+.plus-minus{
+    position: absolute;
+    left: 40%;
+    top:65%;
+    width: 100%;
+    height: 7%;
+}
+
+#value{
+    padding: 4%;
+}
+
+.btn {
+    height: 165%;
+    width: 15%;
+    margin-left: 1%;
+    border: none;
+    border-radius: 10px;
+    background-color: #c5c5c5;
+
+}
+
+.add button {
+    background-color: #582aff;
+    position: absolute;
+    font-size: 15px;
+    border: none;
+    width: 60%;
+    height: 12%;
+    border-radius: 5px;
+    margin-top: 40%;
+    margin-left: 19%;
+    color: white;
+}
+
+.pink {
+    position: absolute;
+    width: 40%;
+    height: 20%;
+    left: 30%;
+    top: 103%;
+    background: #EF4358;
+    border-radius: 31.3552px;
+
+}
+
+.base-botton {
+    width: 110%;
+    height:90%;
+    background-color:white;
+    border-radius: 15px;
+    position: absolute;
+    left: 73%;
+    top: 190%;
+}
+
+.bb-one ,.bb-two,.bb-three{
+    height: 20%;
+    width: 100%;
+}
+
+.base-botton img{
+    margin-left: 4%;
+}
+
+
+.base-botton .label{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 20px;
+    color: #94A2B3;
+    margin-left: 2%;
+    
+}
+
+.bb-one img{
+    margin-top: 5px;
+}
+
+.bb-one .label{
+    margin-bottom: 5%;
+    margin-right: 5px;
+}
+
+.bb-three .label{
+    margin-left: 29%;
+    margin-right: 10px;
+}
+
+.bb-one label,.bb-two label,.bb-three label{
+    height:90%;
+    width:20%;
+}
+
+
+/* Toggle Button */
+
+/* The switch - the box around the slider */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+  
+  /* Hide default HTML checkbox */
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  /* The slider */
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 15px;
+    width: 20px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: #70C217;
+    ;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #70C217;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(20px);
+    -ms-transform: translateX(20px);
+    transform: translateX(20px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 35px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+
+
+
+.center-heading{
+    position: absolute;
+    width: 30%;
+    height: 10%;
+    left: 35%;
+    top: 80%;
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 70px;
+    text-align: center;
+    color: #272D4E;
+
+}
+
+
+/* Bottom Part */
+
+
+.part1{
+    position: absolute;
+    left:13%;
+    top: 160%;
+}
+
+.base-part1 , .base-part2{
+    height:59%;
+    width:63% ;
+    overflow: hidden;
+}
+
+.top-part1{
+    position: absolute;
+    left:10%;
+    top: 165%;
+    height:5%;
+    width:4%;
+}
+
+.left-part1{
+    position: absolute;
+    left:6%;
+    top: 167%;
+    height:35%;
+    width:16%;
+}
+
+#text1{
+    position: absolute;
+    left:13%;
+    top: 196%;
+    height:35%;
+    width:25%;
+}
+
+.heading-part1 , .heading-part2 ,.heading-part3{
+    
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 30px;
+    color: #272D4E;
+}
+
+#text2{
+    position: absolute;
+    left:13%;
+    top: 205%;
+    height:25%;
+    width:25%;
+}
+
+.text-part1 , .text-part2 ,.text-part3{    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 17px;
+    color: #94A2B3;
+}
+
+
+#text3{
+    position: absolute;
+    left:13%;
+    top: 214%;
+    height:25%;
+    width:25%;
+}
+
+.link-part1 ,.link-part2 ,.link-part3{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 20px;
+    color: #299EF3;
+
+}
+
+
+.part2{
+    position: absolute;
+    left:39%;
+    top: 168%;
+    margin-left: 9px;
+}
+
+#text11{
+    position: absolute;
+    left:41%;
+    top: 202%;
+    height:35%;
+    width:25%;
+}
+
+#text22{
+    position: absolute;
+    left:41%;
+    top: 210%;
+    height:25%;
+    width:25%;
+}
+
+#text33{
+    position: absolute;
+    left:41%;
+    top: 219%;
+    height:25%;
+    width:25%;
+}
+
+.square{
+    position: absolute;
+    left:42%;
+    top: 165%;
+    height:16%;
+    width:9%;
+}   
+
+.facebook{
+    position: absolute;
+    left:42%;
+    top: 180%;
+    height:16%;
+    width:9%;
+}   
+
+.monkey{
+    position: absolute;
+    left:54%;
+    top: 170%;
+    height:16%;
+    width:9%;
+}   
+
+.jetpack{
+    position: absolute;
+    left:51%;
+    top: 182%;
+    height:16%;
+    width:9%;
+}   
+
+.google{
+    position: absolute;
+    left:47%;
+    top: 193%;
+    height:16%;
+    width:9%;
+}   
+
+
+.part3{
+    position: absolute;
+    left:67%;
+    top: 175%;
+}
+
+.base-part3{
+    height:68%;
+    width:67% ;
+}
+
+#text111 ,#text222,#text333{
+    position: absolute;
+    left:69%;
+    height:35%;
+    width:25%;
+}
+
+#text111{
+    top: 206%;
+}
+
+#text222{
+    top: 214%;
+}
+
+#text333{
+    top: 223%;
+}
+
+.part3-top ,.part3-middle,.part3-bottom{
+    position: absolute;
+    height:20%;
+    width:13%;
+}
+
+
+.part3-top{
+    left:76%;
+    top: 160%;
+}
+
+.part3-middle{
+    left:67%;
+    top: 169%;
+}
+
+.part3-bottom{
+    left:80%;
+    top: 185%;
+}
